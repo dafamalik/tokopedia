@@ -11,7 +11,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
         debugShowCheckedModeBanner: false,
-        title: 'Flutter Tokopedia',
+        title: 'Flutter Tokopedia Clone',
         home: MainTabbar()
     );
   }
